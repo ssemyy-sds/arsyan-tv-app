@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ic_tv_banner.png" alt="Arsyan TV Player Banner" width="480">
+</p>
+
 # Arsyan TV Player
 
 Arsyan TV Player adalah aplikasi pemutar siaran TV dan media yang dirancang khusus untuk Android TV dan Google TV. Nikmati pengalaman menonton yang sederhana, ringan, dan nyaman digunakan dengan remote TV.
