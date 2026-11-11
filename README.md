@@ -8,6 +8,7 @@ Arsyan TV Player adalah aplikasi pemutar siaran TV dan media yang dirancang khus
 
 ## Kenapa Memilih Arsyan TV Player?
 
+- **Aman & Terverifikasi Bebas Virus / Malware**: Telah diperiksa dan lolos verifikasi keamanan **Google Play Protect** (*"This app looks safe"*), sehingga aman dipasang tanpa perlu mematikan proteksi perangkat
 - Tampilan yang dioptimalkan untuk Android TV dan Google TV
 - Navigasi mudah menggunakan remote dan tombol DPAD
 - Pemutaran siaran TV langsung dalam satu aplikasi
@@ -57,7 +58,15 @@ Setiap APK resmi Arsyan TV Player:
 - ditandatangani menggunakan sertifikat rilis
 - dipublikasikan bersama checksum SHA-256
 - dapat diverifikasi sebelum instalasi
+- **lolos verifikasi keamanan Google Play Protect** (*"This app looks safe"*)
+- bebas dari virus, spyware, maupun malware berbahaya
 - tidak mengharuskan pengguna mematikan Google Play Protect
+
+<p align="center">
+  <img src="assets/play_protect_safe.jpg" alt="Google Play Protect - This app looks safe" width="300">
+  <br>
+  <em>Bukti pemindaian Google Play Protect: Arsyan TV terverifikasi aman ("This app looks safe").</em>
+</p>
 
 ### SHA-256 APK v1.0.2
 
