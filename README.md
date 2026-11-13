@@ -34,9 +34,9 @@ https://github.com/ssemyy-sds/arsyan-tv-app/releases
 
 | File | Cocok untuk |
 | --- | --- |
-| `arsyantvplayer-v1.0.2-arm64-v8a.apk` | Sebagian besar Android TV dan Google TV modern dengan prosesor 64-bit |
-| `arsyantvplayer-v1.0.2-armeabi-v7a.apk` | Perangkat Android TV lama dengan prosesor 32-bit |
-| `arsyantvplayer-v1.0.2-universal.apk` | Pilihan paling mudah jika Anda tidak mengetahui arsitektur perangkat |
+| `arsyantvplayer-v1.0.5-arm64-v8a.apk` | Sebagian besar Android TV dan Google TV modern dengan prosesor 64-bit |
+| `arsyantvplayer-v1.0.5-armeabi-v7a.apk` | Perangkat Android TV lama dengan prosesor 32-bit |
+| `arsyantvplayer-v1.0.5-universal.apk` | Pilihan paling mudah jika Anda tidak mengetahui arsitektur perangkat |
 
 Jika ragu, gunakan versi `universal`.
 
@@ -68,13 +68,13 @@ Setiap APK resmi Arsyan TV Player:
   <em>Bukti pemindaian Google Play Protect: Arsyan TV terverifikasi aman ("This app looks safe").</em>
 </p>
 
-### SHA-256 APK v1.0.2
+### SHA-256 APK v1.0.5
 
 | File | SHA-256 |
 | --- | --- |
-| `arsyantvplayer-v1.0.2-arm64-v8a.apk` | `5e6f3165c109a1b893b2d180274c49d6422bc1f017521ff41d2f2be6c542fdcc` |
-| `arsyantvplayer-v1.0.2-armeabi-v7a.apk` | `03ec126c2ce1284a4256539045a4cf8dccdbf77158a646f9eca4394ba46d0566` |
-| `arsyantvplayer-v1.0.2-universal.apk` | `fa79b3dc4c06d998e421862494dd75535c5baffc4fd793b4d5a9df17608e68cc` |
+| `arsyantvplayer-v1.0.5-arm64-v8a.apk` | `b916a6699daf16a0fa2a71cc9e362d336dedc60a6715ec2f16b1d7d303c3d152` |
+| `arsyantvplayer-v1.0.5-armeabi-v7a.apk` | `e7389496bf09e588d262542b25f420323c899894134fbfdd48016f2af18edc70` |
+| `arsyantvplayer-v1.0.5-universal.apk` | `55fcd23256191ee82fee515aa3e17f1a62a69d71430f8ebfb1add1e07a564b23` |
 
 ### Official Signing Certificate
 
@@ -87,7 +87,7 @@ Checksum harus dihitung dari APK final yang sudah ditandatangani. Jangan lanjutk
 ### Verifikasi di Windows PowerShell
 
 ```powershell
-Get-FileHash .\arsyantvplayer-v1.0.2-universal.apk -Algorithm SHA256
+Get-FileHash .\arsyantvplayer-v1.0.5-universal.apk -Algorithm SHA256
 ```
 
 ### Catatan Penting
